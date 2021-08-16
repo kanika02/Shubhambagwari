@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ML and DL projects.
 - 🤔 I’m looking for Universities,PhD 
 - 💬 Ask me about anything
-- 📫 How to reach me: via message 😅
+- 📫 How to reach me: via email 😅
 - 😄 Pronouns: subbu
 - ⚡ Fun fact: I love to interact and explore things
 
