@@ -1,4 +1,10 @@
-### Hi there, I am Shubham Bagwari a Master's 2nd year student 👋
+## Hi there, I am Shubham Bagwari a Master's 2nd year student 👋 <img  src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"  width="30">
+
+I love ❤️ to contribute open source and passionate to learn new skills and leverage them into solve real-world problems
+<br>
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
+<br>
 
 - 🔭 I’m currently working on ML, DL, and Image Processing project.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
@@ -26,13 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I m Kavin <img  src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"  width="30">
 
-I love ❤️ to contribute open source and passionate to learn new skills and leverage them into solve real-world problems
-<br>
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-
-<br>
 
 # Tools and Technologies
 <p align="left">
