@@ -27,16 +27,15 @@ Here are some ideas to get you started:
 
 mailID: subbu.bagwari@gmail.com
 
-<!--
 
-![kavinkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavinkumar999&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinkumar999&langs_count=8&layout=compact)](https://github.com/kavinkumar999/github-readme-stats)
+![Shubham Bagwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhambagwari&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavinkumar999&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhambagwari&langs_count=8&layout=compact)](https://github.com/shubhambagwari/github-readme-stats)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambagwari&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 
 **Visitors Count**<br>
-![VisitorCount](https://profile-counter.glitch.me/{kavinkumar999}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{shubhambagwari}/count.svg)
 
-[![Kavin Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kavinkumar999&theme=react-dark)](https://github.com/kavinkumar999/github-readme-activity-graph)
--->
+[![Shubham Bagwari's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhambagwari&theme=react-dark)](https://github.com/shubhambagwari/github-readme-activity-graph)
